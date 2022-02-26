@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...Algorithms
 - 💬 Ask me about ...Anything already mentioned on the Page!
 - 📫 How to reach me: ...LinkedIn,Github & Address
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...I am so fond of Reading diverse Material books that i skipped my own College books.
+- 😄 Pronouns: ...Engineer ER
+- ⚡ Fun fact: ...I am so fond of Reading Diverse topics books that i skipped my own College books.
