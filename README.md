@@ -1,7 +1,10 @@
 ### Hi there 👋
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://https://akash-shelke.netlify.app/)
 **Akashokshelke96/Akashokshelke96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h1 align="center">Hi 👋, I'm Akash Kumar Shelke</h1>
 <h3 align="center">A passionate Full-Stack developer from India.</h3>
+img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/0*C-cPP9D2MIyeexAT.gif"
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashokshelke96&label=Profile%20views&color=0e75b6&style=flat" alt="akashokshelke96" /> </p>
 
