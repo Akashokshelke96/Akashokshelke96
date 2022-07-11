@@ -1,6 +1,6 @@
+<h1 align='center'> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 
-<h1 align="center">Hello World! 👋, I'm Akash Kumar Shelke</h1>
-<h3 align="center">An ardent and zealous Full-Stack developer from India.</h3>
+<h3 align="center"> Thank You for taking the time to view my GitHub Profile <br>Akash Shelke this side <br>-An ardent and zealous Software developer from India.</h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
@@ -45,4 +45,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashokshelke96&" alt="akashokshelke96" /></p>
 
+
+<h2> Some Programming Humor for you </h2>
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=dracula)
 
