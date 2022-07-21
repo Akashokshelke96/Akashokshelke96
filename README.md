@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Spring, JavaScript , React ,Node**
 
-- 👯 I’m looking to collaborate on **Java Backend , Frontend**
+- 👯 I’m looking to collaborate on **Java 8 microservices , Frontend**
 
 - 🤝 I’m looking for help with **Data-Structures & Algorithms**
 
