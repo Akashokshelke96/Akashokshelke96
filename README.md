@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m currently working on **JavaScript , Python**
+- 🔭 I’m currently working on **JavaScript ,Python**
 
 - 🌱 I’m currently learning **Spring, JavaScript , React ,Node**
 
