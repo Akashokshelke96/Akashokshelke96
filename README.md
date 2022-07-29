@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m currently working on **JavaScript ,Python**
+- 🔭 I’m currently working on **JavaScript, Spring Framework**
 
 - 🌱 I’m currently learning **Spring, JavaScript , React ,Node**
 
@@ -19,9 +19,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Akashokshelke96?tab=repositories](https://github.com/Akashokshelke96?tab=repositories)
 
-- 💬 Ask me about **React, Java , Java script , HTML & CSS**
+- 💬 Ask me about **React, Java , Java Script , HTML & CSS**
 
-- 📫 How to reach me **aryanakashshelke@gmail.com**
+- 📫 How to reach me **akashokshelke@gmail.com**
 
 - ⚡ Fun fact **I drove 1130 KMS in a Single run from Rishikesh to Indore.**
 <br>
